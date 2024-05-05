@@ -1,1 +1,1 @@
-# LaTeX_samples
+# $\LaTeX$ templates
